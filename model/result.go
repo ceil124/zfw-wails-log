@@ -1,4 +1,4 @@
-package result
+package model
 
 type Result struct {
 	Status  int    `json:"status"`
