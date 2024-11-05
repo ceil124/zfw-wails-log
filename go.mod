@@ -1,4 +1,4 @@
-module github.com/zfw-wails-log
+module github.com/ceil124/zfw-wails-log
 
 go 1.23
 
