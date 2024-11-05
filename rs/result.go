@@ -12,6 +12,7 @@ func Success() Result {
 		Message: "操作成功",
 	}
 }
+
 func SuccessWithData[T any](data T) Result {
 	return Result{
 		Status:  200,
