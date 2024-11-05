@@ -1,0 +1,17 @@
+### wails
+build/bin
+node_modules
+dist
+*.exe
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+*.xlsx
+*.syso
+*.db
+*.log
+
